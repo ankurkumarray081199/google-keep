@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/google-keep/static/css/main.3351d99e.chunk.css",
+    "main.js": "/google-keep/static/js/main.c3b05ae9.chunk.js",
+    "main.js.map": "/google-keep/static/js/main.c3b05ae9.chunk.js.map",
+    "runtime-main.js": "/google-keep/static/js/runtime-main.45bd8a8e.js",
+    "runtime-main.js.map": "/google-keep/static/js/runtime-main.45bd8a8e.js.map",
+    "static/css/2.383c0125.chunk.css": "/google-keep/static/css/2.383c0125.chunk.css",
+    "static/js/2.349619eb.chunk.js": "/google-keep/static/js/2.349619eb.chunk.js",
+    "static/js/2.349619eb.chunk.js.map": "/google-keep/static/js/2.349619eb.chunk.js.map",
+    "index.html": "/google-keep/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/google-keep/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.3351d99e.chunk.css.map": "/google-keep/static/css/main.3351d99e.chunk.css.map",
+    "static/js/2.349619eb.chunk.js.LICENSE.txt": "/google-keep/static/js/2.349619eb.chunk.js.LICENSE.txt",
+    "static/media/ankur.6f4bedb3.webp": "/google-keep/static/media/ankur.6f4bedb3.webp",
+    "static/media/keep.de200039.png": "/google-keep/static/media/keep.de200039.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45bd8a8e.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.349619eb.chunk.js",
+    "static/css/main.3351d99e.chunk.css",
+    "static/js/main.c3b05ae9.chunk.js"
+  ]
+}
